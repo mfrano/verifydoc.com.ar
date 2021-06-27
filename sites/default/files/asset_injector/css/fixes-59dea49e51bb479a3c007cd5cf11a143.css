@@ -1,0 +1,21 @@
+.dropdown-menu {
+    min-width: 220px;
+}
+.view-casos-de-uso .view-filters .views-exposed-form{
+  text-align: center;
+}  
+.view-casos-de-uso  .view-filters .form-group:last-child {
+  margin-bottom: 0;	
+}
+
+.navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
+    max-height: none;
+}
+
+@media (max-width: 768px){
+  .navbar-default .navbar-nav li > a {
+      margin-right: 10px;
+      margin-left: 10px;
+      font-size: inherit;
+  }
+} 
